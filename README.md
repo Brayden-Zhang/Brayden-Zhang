@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @zhabr1022 or Brayden Zhang
-- 👀 I’m interested in Optimization Methods, Quantum Computing, and AI
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi! 
+I'm Brayden Zhang, an Engineering Science student at the University of Toronto. 
 
-<!---
-BandB1111211331/BandB1111211331 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayden-zhang&hide=html,css,scss&langs_count=5)](https://github.com/brayden-zhang/github-readme-stats)
+
+
